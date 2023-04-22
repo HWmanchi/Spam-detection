@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+scikit-image
+scikit-learn==0.24.2
